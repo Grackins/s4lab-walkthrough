@@ -1,4 +1,4 @@
-* Many websites expose their `.git` files, please show how it could be dangerous. *
+** Many websites expose their `.git` files, please show how it could be dangerous. **
 
 در این حالت ممکن است ۲ مساله باعث ایجاد مشکل شود.
 
